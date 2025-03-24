@@ -1,2 +1,1 @@
-#23f3000312-cs1102-linux-lab
-Myself Prem Shandilya, I'm a student at IITM doing BS in Electronic Systems, I like doing designing and UI/UX.
+Myself Prem Shandilya, a student at IIT Madras pursuing a BS in Electronic Systems. I have a deep passion for designing and UI/UX, crafting intuitive and visually appealing user experiences. Beyond design, I enjoy exploring new technologies, problem-solving, and working on innovative projects that bridge hardware and software. I’m also interested in entrepreneurship, product development, and building digital experiences that make a real-world impact.
